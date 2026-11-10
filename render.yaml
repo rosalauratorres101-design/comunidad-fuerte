@@ -1,0 +1,32 @@
+# Render Blueprint for Comunidad Fuerte.
+# Free plan: works for judging, but the server sleeps when idle (first visit
+# takes about a minute) and saved reports are erased on each restart. Judges can
+# always press "Load a completed example" on the home page.
+# Starter plan (paid): uncomment the disk block so reports survive restarts.
+services:
+  - type: web
+    name: comunidad-fuerte
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/config
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: PAYPAL_CLIENT_ID
+        sync: false
+      - key: PAYPAL_CLIENT_SECRET
+        sync: false
+      - key: MEDIA_LINK_SECRET
+        generateValue: true
+      - key: ALLOW_RESET
+        value: "false"
+      - key: KNOWLEDGE_REFRESH_HOURS
+        value: "24"
+      - key: NODE_VERSION
+        value: "20"
+    # disk:
+    #   name: comunidad-fuerte-data
+    #   mountPath: /var/data
+    # (then also add the env var DATA_DIR=/var/data)

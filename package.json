@@ -1,0 +1,26 @@
+{
+  "name": "comunidad-fuerte",
+  "version": "1.0.0",
+  "description": "Community pollution response: AI checks the danger and the work, PayPal releases the money.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/unit.test.js test/live-mock.test.js test/privacy.test.js",
+    "e2e": "python3 test/e2e.py",
+    "samples": "python3 scripts/make-samples.py",
+    "refresh-knowledge": "node scripts/refresh-knowledge.js",
+    "check-live": "node scripts/check-live.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@fontsource/atkinson-hyperlegible": "^5.3.0",
+    "@paypal/agent-toolkit": "^1.11.0",
+    "ag-grid-community": "^36.2.0",
+    "express": "^4.22.3",
+    "qrcode": "^1.5.4"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}
