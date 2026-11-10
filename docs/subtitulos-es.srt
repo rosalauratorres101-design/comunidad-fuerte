@@ -1,0 +1,87 @@
+1
+00:00:00,300 --> 00:00:05,700
+Comunidad Fuerte. Primero la seguridad. La autoridad correcta. Dinero solo para trabajo verificado.
+
+2
+00:00:06,300 --> 00:00:13,700
+Los vecinos llegan primero. Cuando el sargazo se acumula en la playa, la gente que vive ahí no tiene plan de seguridad, ni experto, ni forma de reunir dinero en el que los donantes confíen.
+
+3
+00:00:14,300 --> 00:00:20,700
+Reporta lo que ves. Una entrevista corta con fotos y respuestas sencillas. En cualquier teléfono, y funciona sin señal.
+
+4
+00:00:21,300 --> 00:00:27,700
+Revisa y envía. Sin cuenta y sin dar tu nombre.
+
+5
+00:00:28,300 --> 00:00:36,700
+Las reglas fijan el mínimo. El código fija el nivel mínimo de seguridad. Claude lee las fotos y puede hacerlo más estricto, nunca más débil.
+
+6
+00:00:37,300 --> 00:00:43,700
+Pasos que cualquiera puede seguir. Protección, turnos cortos, niños lejos. Con los colores de seguridad de México.
+
+7
+00:00:44,300 --> 00:00:50,700
+Diez idiomas. Maya y náhuatl con intérpretes de la comunidad pagados, nunca traducción automática.
+
+8
+00:00:51,300 --> 00:01:00,700
+Leyes por nivel. Internacional, nacional, estatal y local. Solo reglas verificadas, con fuente y fecha.
+
+9
+00:01:01,300 --> 00:01:07,700
+Un enlace para la autoridad. La oficina no necesita cuenta.
+
+10
+00:01:08,300 --> 00:01:14,700
+La oficina responde en la app. Ve el reporte sin el nombre ni los datos de contacto del residente.
+
+11
+00:01:15,300 --> 00:01:22,700
+En proceso, y un compromiso. Número de caso, fecha y la promesa de igualar cada dólar de la comunidad 1:1, hasta $300.
+
+12
+00:01:23,300 --> 00:01:29,700
+Llega la respuesta. Cada respuesta queda en el registro a prueba de alteraciones.
+
+13
+00:01:30,300 --> 00:01:37,700
+Los vecinos donan. Las donaciones por PayPal van solo a este incidente.
+
+14
+00:01:38,300 --> 00:01:46,700
+Un agente factura lo igualado. El PayPal Agent Toolkit factura exactamente lo que se debe. Nunca puede enviar dinero.
+
+15
+00:01:47,300 --> 00:01:53,700
+Dinero por etapas. El equipo sube una foto.
+
+16
+00:01:54,300 --> 00:02:01,700
+Claude revisa la evidencia. Sin foto, no hay pago.
+
+17
+00:02:02,300 --> 00:02:09,700
+Una persona con nombre aprueba. Luego PayPal Payouts paga. Quien verifica nunca puede pagarse a sí mismo.
+
+18
+00:02:10,300 --> 00:02:16,700
+Privado desde el diseño. Solo quien reporta ve el reporte.
+
+19
+00:02:17,300 --> 00:02:24,700
+Un libro público de cuentas. Cada dólar, sin lugares, fotos ni nombres.
+
+20
+00:02:25,300 --> 00:02:31,700
+Estadísticas anónimas. Los grupos de menos de 3 se ocultan.
+
+21
+00:02:32,300 --> 00:02:38,700
+Abierto para descargar. Cada total anónimo en CSV.
+
+22
+00:02:39,300 --> 00:02:46,700
+Comunidades fuertes. Primero la seguridad, la autoridad correcta y dinero solo para trabajo real.

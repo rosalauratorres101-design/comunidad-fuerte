@@ -1,0 +1,346 @@
+{
+ "protocols": {
+  "en": {
+   "green": {
+    "title": "Not urgent: report it so it gets fixed",
+    "steps": [
+     "Take a clear photo that shows where it is.",
+     "Report it to the city service or the person responsible.",
+     "Save the report number and the date.",
+     "Tell neighbors so they can add their own reports."
+    ]
+   },
+   "yellow": {
+    "title": "Take care and report it today",
+    "steps": [
+     "Keep away from the problem or pass with care, and warn others, especially children and older adults.",
+     "If it is safe, mark the spot so others can see it.",
+     "Report it today in writing with photos, and save the report number.",
+     "Check again in a few days; if it gets worse, report it again."
+    ]
+   },
+   "red": {
+    "title": "Danger: move away and get help",
+    "steps": [
+     "Move away and keep everyone else away, including children and pets.",
+     "If anyone is hurt or in danger, call the emergency number.",
+     "From a safe place, call the service responsible for the problem.",
+     "Take photos only from a safe distance. Do not try to fix it yourself."
+    ]
+   }
+  },
+  "es": {
+   "green": {
+    "title": "No es urgente: repórtalo para que lo arreglen",
+    "steps": [
+     "Toma una foto clara que muestre dónde está.",
+     "Repórtalo al servicio de la ciudad o a la persona responsable.",
+     "Guarda el número de reporte y la fecha.",
+     "Avisa a los vecinos para que también lo reporten."
+    ]
+   },
+   "yellow": {
+    "title": "Ten cuidado y repórtalo hoy",
+    "steps": [
+     "Aléjate del problema o pasa con cuidado, y avisa a otros, sobre todo a niños y personas mayores.",
+     "Si es seguro, marca el lugar para que otros lo vean.",
+     "Repórtalo hoy por escrito con fotos y guarda el número de reporte.",
+     "Revisa de nuevo en unos días; si empeora, vuelve a reportarlo."
+    ]
+   },
+   "red": {
+    "title": "Peligro: aléjate y pide ayuda",
+    "steps": [
+     "Aléjate y mantén lejos a los demás, incluidos niños y mascotas.",
+     "Si alguien está herido o en peligro, llama al número de emergencias.",
+     "Desde un lugar seguro, llama al servicio responsable del problema.",
+     "Toma fotos solo desde una distancia segura. No intentes arreglarlo tú."
+    ]
+   }
+  },
+  "fr": {
+   "green": {
+    "title": "Pas urgent : signalez-le pour qu'il soit réparé",
+    "steps": [
+     "Prenez une photo claire qui montre où il se trouve.",
+     "Signalez-le au service de la ville ou à la personne responsable.",
+     "Gardez le numéro de signalement et la date.",
+     "Prévenez les voisins pour qu'ils le signalent aussi."
+    ]
+   },
+   "yellow": {
+    "title": "Soyez prudent et signalez-le aujourd'hui",
+    "steps": [
+     "Éloignez-vous du problème ou passez avec prudence, et prévenez les autres, surtout les enfants et les personnes âgées.",
+     "Si c'est sans danger, marquez l'endroit pour que les autres le voient.",
+     "Signalez-le aujourd'hui par écrit avec des photos, et gardez le numéro de signalement.",
+     "Vérifiez de nouveau dans quelques jours ; s'il s'aggrave, signalez-le à nouveau."
+    ]
+   },
+   "red": {
+    "title": "Danger : éloignez-vous et demandez de l'aide",
+    "steps": [
+     "Éloignez-vous et tenez tout le monde à l'écart, y compris les enfants et les animaux.",
+     "Si quelqu'un est blessé ou en danger, appelez le numéro d'urgence.",
+     "Depuis un endroit sûr, appelez le service responsable du problème.",
+     "Prenez des photos seulement à distance sûre. N'essayez pas de le réparer vous-même."
+    ]
+   }
+  },
+  "pt": {
+   "green": {
+    "title": "Não é urgente: informe para que seja consertado",
+    "steps": [
+     "Tire uma foto nítida que mostre onde está.",
+     "Informe o serviço da prefeitura ou a pessoa responsável.",
+     "Guarde o número do protocolo e a data.",
+     "Avise os vizinhos para que também informem."
+    ]
+   },
+   "yellow": {
+    "title": "Tenha cuidado e informe hoje",
+    "steps": [
+     "Afaste-se do problema ou passe com cuidado, e avise os outros, principalmente crianças e idosos.",
+     "Se for seguro, sinalize o local para que outros o vejam.",
+     "Informe hoje por escrito com fotos e guarde o número do protocolo.",
+     "Verifique de novo em alguns dias; se piorar, informe outra vez."
+    ]
+   },
+   "red": {
+    "title": "Perigo: afaste-se e peça ajuda",
+    "steps": [
+     "Afaste-se e mantenha todos longe, incluindo crianças e animais.",
+     "Se alguém estiver ferido ou em perigo, ligue para o número de emergência.",
+     "De um lugar seguro, ligue para o serviço responsável pelo problema.",
+     "Tire fotos apenas de uma distância segura. Não tente consertar sozinho."
+    ]
+   }
+  },
+  "zh": {
+   "green": {
+    "title": "不紧急：报告以便修复",
+    "steps": [
+     "拍一张能看清位置的清晰照片。",
+     "向市政服务部门或负责人报告。",
+     "保存报告编号和日期。",
+     "告诉邻居，让他们也一起报告。"
+    ]
+   },
+   "yellow": {
+    "title": "注意安全，今天就报告",
+    "steps": [
+     "远离问题处或小心通过，并提醒他人，尤其是儿童和老人。",
+     "如果安全，请标出该位置，让别人看得见。",
+     "今天就附照片书面报告，并保存报告编号。",
+     "几天后再检查；如果变严重，请再次报告。"
+    ]
+   },
+   "red": {
+    "title": "危险：远离并求助",
+    "steps": [
+     "立即远离，并让其他人（包括儿童和宠物）远离。",
+     "如有人受伤或处于危险中，请拨打急救电话。",
+     "在安全的地方，致电负责该问题的服务部门。",
+     "只在安全距离外拍照。不要自己尝试修理。"
+    ]
+   }
+  },
+  "hi": {
+   "green": {
+    "title": "जरूरी नहीं: इसे ठीक करवाने के लिए रिपोर्ट करें",
+    "steps": [
+     "एक साफ़ फ़ोटो लें जिसमें जगह दिखे।",
+     "शहर की सेवा या ज़िम्मेदार व्यक्ति को रिपोर्ट करें।",
+     "रिपोर्ट नंबर और तारीख संभालकर रखें।",
+     "पड़ोसियों को बताएँ ताकि वे भी रिपोर्ट करें।"
+    ]
+   },
+   "yellow": {
+    "title": "सावधान रहें और आज ही रिपोर्ट करें",
+    "steps": [
+     "समस्या से दूर रहें या सावधानी से गुज़रें, और दूसरों को, खासकर बच्चों और बुज़ुर्गों को, चेतावनी दें।",
+     "अगर सुरक्षित हो, तो जगह पर निशान लगाएँ ताकि दूसरे देख सकें।",
+     "आज ही फ़ोटो के साथ लिखित रिपोर्ट करें और रिपोर्ट नंबर रखें।",
+     "कुछ दिनों बाद फिर देखें; अगर हालत बिगड़े तो दोबारा रिपोर्ट करें।"
+    ]
+   },
+   "red": {
+    "title": "खतरा: दूर हटें और मदद लें",
+    "steps": [
+     "दूर हटें और बच्चों व पालतू जानवरों सहित सभी को दूर रखें।",
+     "अगर कोई घायल है या खतरे में है, तो आपातकालीन नंबर पर कॉल करें।",
+     "किसी सुरक्षित जगह से, उस समस्या के लिए ज़िम्मेदार सेवा को कॉल करें।",
+     "केवल सुरक्षित दूरी से फ़ोटो लें। इसे खुद ठीक करने की कोशिश न करें।"
+    ]
+   }
+  },
+  "ar": {
+   "green": {
+    "title": "غير عاجل: أبلغ عنه ليتم إصلاحه",
+    "steps": [
+     "التقط صورة واضحة تُظهر المكان.",
+     "أبلغ خدمة المدينة أو الشخص المسؤول.",
+     "احتفظ برقم البلاغ وتاريخه.",
+     "أخبر الجيران ليبلغوا عنه أيضًا."
+    ]
+   },
+   "yellow": {
+    "title": "احذر وأبلغ عنه اليوم",
+    "steps": [
+     "ابتعد عن المشكلة أو مرّ بحذر، ونبّه الآخرين، خاصة الأطفال وكبار السن.",
+     "إذا كان ذلك آمنًا، ضع علامة على المكان ليراه الآخرون.",
+     "أبلغ عنه اليوم كتابةً مع الصور، واحتفظ برقم البلاغ.",
+     "تحقق مرة أخرى بعد بضعة أيام؛ وإذا ساء الوضع، أبلغ عنه مجددًا."
+    ]
+   },
+   "red": {
+    "title": "خطر: ابتعد واطلب المساعدة",
+    "steps": [
+     "ابتعد وأبعد الجميع، بمن فيهم الأطفال والحيوانات الأليفة.",
+     "إذا أصيب أحد أو كان في خطر، اتصل برقم الطوارئ.",
+     "من مكان آمن، اتصل بالجهة المسؤولة عن المشكلة.",
+     "التقط الصور فقط من مسافة آمنة. لا تحاول إصلاحها بنفسك."
+    ]
+   }
+  },
+  "bn": {
+   "green": {
+    "title": "জরুরি নয়: মেরামতের জন্য রিপোর্ট করুন",
+    "steps": [
+     "জায়গাটি দেখা যায় এমন একটি স্পষ্ট ছবি তুলুন।",
+     "শহরের সেবা বিভাগ বা দায়িত্বপ্রাপ্ত ব্যক্তিকে রিপোর্ট করুন।",
+     "রিপোর্ট নম্বর ও তারিখ রেখে দিন।",
+     "প্রতিবেশীদের জানান যাতে তারাও রিপোর্ট করেন।"
+    ]
+   },
+   "yellow": {
+    "title": "সাবধান থাকুন এবং আজই রিপোর্ট করুন",
+    "steps": [
+     "সমস্যা থেকে দূরে থাকুন বা সাবধানে পার হোন, এবং অন্যদের, বিশেষ করে শিশু ও বয়স্কদের, সতর্ক করুন।",
+     "নিরাপদ হলে জায়গাটি চিহ্নিত করুন যাতে অন্যরা দেখতে পায়।",
+     "আজই ছবিসহ লিখিতভাবে রিপোর্ট করুন এবং রিপোর্ট নম্বর রাখুন।",
+     "কয়েক দিন পর আবার দেখুন; খারাপ হলে আবার রিপোর্ট করুন।"
+    ]
+   },
+   "red": {
+    "title": "বিপদ: দূরে সরে যান এবং সাহায্য চান",
+    "steps": [
+     "দূরে সরে যান এবং শিশু ও পোষা প্রাণীসহ সবাইকে দূরে রাখুন।",
+     "কেউ আহত বা বিপদে থাকলে জরুরি নম্বরে ফোন করুন।",
+     "নিরাপদ জায়গা থেকে সমস্যার জন্য দায়ী সেবা বিভাগে ফোন করুন।",
+     "শুধু নিরাপদ দূরত্ব থেকে ছবি তুলুন। নিজে মেরামতের চেষ্টা করবেন না।"
+    ]
+   }
+  },
+  "ru": {
+   "green": {
+    "title": "Не срочно: сообщите, чтобы это исправили",
+    "steps": [
+     "Сделайте чёткое фото, на котором видно место.",
+     "Сообщите в городскую службу или ответственному лицу.",
+     "Сохраните номер обращения и дату.",
+     "Расскажите соседям, чтобы они тоже сообщили."
+    ]
+   },
+   "yellow": {
+    "title": "Будьте осторожны и сообщите сегодня",
+    "steps": [
+     "Держитесь подальше от проблемы или проходите осторожно и предупредите других, особенно детей и пожилых.",
+     "Если это безопасно, отметьте место, чтобы его видели другие.",
+     "Сообщите сегодня письменно с фото и сохраните номер обращения.",
+     "Проверьте снова через несколько дней; если стало хуже, сообщите ещё раз."
+    ]
+   },
+   "red": {
+    "title": "Опасно: отойдите и вызовите помощь",
+    "steps": [
+     "Отойдите и не подпускайте никого, включая детей и домашних животных.",
+     "Если кто-то пострадал или в опасности, звоните в экстренную службу.",
+     "Из безопасного места позвоните в службу, отвечающую за эту проблему.",
+     "Фотографируйте только с безопасного расстояния. Не пытайтесь устранить это сами."
+    ]
+   }
+  },
+  "id": {
+   "green": {
+    "title": "Tidak mendesak: laporkan agar diperbaiki",
+    "steps": [
+     "Ambil foto yang jelas yang menunjukkan lokasinya.",
+     "Laporkan ke layanan kota atau pihak yang bertanggung jawab.",
+     "Simpan nomor laporan dan tanggalnya.",
+     "Beri tahu tetangga agar mereka juga melapor."
+    ]
+   },
+   "yellow": {
+    "title": "Berhati-hatilah dan laporkan hari ini",
+    "steps": [
+     "Jauhi masalahnya atau lewati dengan hati-hati, dan peringatkan orang lain, terutama anak-anak dan lansia.",
+     "Jika aman, tandai lokasinya agar orang lain bisa melihat.",
+     "Laporkan hari ini secara tertulis dengan foto, dan simpan nomor laporan.",
+     "Periksa lagi dalam beberapa hari; jika memburuk, laporkan lagi."
+    ]
+   },
+   "red": {
+    "title": "Bahaya: menjauh dan cari bantuan",
+    "steps": [
+     "Menjauhlah dan jauhkan semua orang, termasuk anak-anak dan hewan peliharaan.",
+     "Jika ada yang terluka atau dalam bahaya, hubungi nomor darurat.",
+     "Dari tempat yang aman, hubungi layanan yang bertanggung jawab atas masalah ini.",
+     "Ambil foto hanya dari jarak aman. Jangan mencoba memperbaikinya sendiri."
+    ]
+   }
+  }
+ },
+ "special": {
+  "en": {
+   "gas_smell": "Leave on foot right away. Do not use light switches, lighters or vehicles nearby, and call only once you are far away.",
+   "power_line": "Stay far away from the line and anything it touches, such as fences, cars or water. Treat it as live.",
+   "flooding": "Never walk or drive into floodwater: Turn around, don't drown. Water just six inches deep can sweep away a car."
+  },
+  "es": {
+   "gas_smell": "Sal a pie de inmediato. No uses interruptores, encendedores ni vehículos cerca, y llama solo cuando estés lejos.",
+   "power_line": "Mantente lejos del cable y de todo lo que toque, como cercas, autos o agua. Considéralo con corriente.",
+   "flooding": "Nunca camines ni manejes en agua de inundación: da la vuelta. Bastan 15 cm (seis pulgadas) de agua para arrastrar un auto."
+  },
+  "fr": {
+   "gas_smell": "Partez à pied immédiatement. N'utilisez ni interrupteurs, ni briquets, ni véhicules à proximité, et n'appelez qu'une fois loin.",
+   "power_line": "Restez loin du câble et de tout ce qu'il touche, comme les clôtures, les voitures ou l'eau. Considérez qu'il est sous tension.",
+   "flooding": "Ne marchez et ne roulez jamais dans l'eau d'une inondation : faites demi-tour. 15 cm d'eau suffisent pour emporter une voiture."
+  },
+  "pt": {
+   "gas_smell": "Saia a pé imediatamente. Não use interruptores, isqueiros nem veículos por perto, e só ligue quando estiver longe.",
+   "power_line": "Fique longe do fio e de tudo o que ele toca, como cercas, carros ou água. Considere que está energizado.",
+   "flooding": "Nunca ande nem dirija em água de enchente: dê meia-volta. Apenas 15 cm de água podem arrastar um carro."
+  },
+  "zh": {
+   "gas_smell": "立即步行离开。不要在附近使用电灯开关、打火机或车辆，走远后再打电话。",
+   "power_line": "远离电线以及它接触到的任何东西，例如围栏、汽车或积水。要当作带电处理。",
+   "flooding": "切勿步行或驾车进入洪水：请掉头。仅15厘米深的水就能冲走一辆汽车。"
+  },
+  "hi": {
+   "gas_smell": "तुरंत पैदल निकल जाएँ। पास में बिजली के स्विच, लाइटर या वाहन का इस्तेमाल न करें, और दूर पहुँचकर ही कॉल करें।",
+   "power_line": "तार से और जिस चीज़ को वह छू रहा है, जैसे बाड़, गाड़ी या पानी, उससे दूर रहें। मानकर चलें कि उसमें करंट है।",
+   "flooding": "बाढ़ के पानी में कभी पैदल न चलें और न गाड़ी चलाएँ: वापस मुड़ जाएँ। केवल 15 सेमी पानी भी एक कार को बहा सकता है।"
+  },
+  "ar": {
+   "gas_smell": "غادر سيرًا على الأقدام فورًا. لا تستخدم مفاتيح الإضاءة أو الولاعات أو المركبات بالقرب، ولا تتصل إلا بعد أن تبتعد.",
+   "power_line": "ابقَ بعيدًا عن السلك وعن كل ما يلمسه، مثل الأسوار أو السيارات أو الماء. اعتبره مكهربًا.",
+   "flooding": "لا تمشِ ولا تقُد أبدًا في مياه الفيضان: استدر وعُد. يكفي 15 سم من الماء لجرف سيارة."
+  },
+  "bn": {
+   "gas_smell": "এখনই হেঁটে চলে যান। কাছাকাছি বাতির সুইচ, লাইটার বা গাড়ি ব্যবহার করবেন না, এবং দূরে গিয়ে তবেই ফোন করুন।",
+   "power_line": "তার এবং তার স্পর্শে থাকা সবকিছু, যেমন বেড়া, গাড়ি বা পানি, থেকে দূরে থাকুন। ধরে নিন এতে বিদ্যুৎ আছে।",
+   "flooding": "বন্যার পানিতে কখনো হাঁটবেন না বা গাড়ি চালাবেন না: ফিরে যান। মাত্র ১৫ সেমি পানিও একটি গাড়ি ভাসিয়ে নিতে পারে।"
+  },
+  "ru": {
+   "gas_smell": "Сразу уходите пешком. Не пользуйтесь выключателями, зажигалками и машинами рядом и звоните, только когда отойдёте далеко.",
+   "power_line": "Держитесь подальше от провода и всего, чего он касается: заборов, машин, воды. Считайте, что он под напряжением.",
+   "flooding": "Никогда не входите и не въезжайте в паводковую воду: развернитесь. Даже 15 см воды могут унести машину."
+  },
+  "id": {
+   "gas_smell": "Segera pergi dengan berjalan kaki. Jangan gunakan sakelar lampu, korek api, atau kendaraan di dekatnya, dan telepon hanya setelah Anda jauh.",
+   "power_line": "Jauhi kabel itu dan apa pun yang disentuhnya, seperti pagar, mobil, atau air. Anggap kabel itu bertegangan.",
+   "flooding": "Jangan pernah berjalan atau berkendara di air banjir: putar balik. Air setinggi 15 cm saja bisa menghanyutkan mobil."
+  }
+ }
+}

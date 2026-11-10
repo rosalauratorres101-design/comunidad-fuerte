@@ -1,0 +1,87 @@
+1
+00:00:00,300 --> 00:00:05,700
+Comunidad Fuerte. Safe first. The right authority. Money only for verified work.
+
+2
+00:00:06,300 --> 00:00:13,700
+Neighbors arrive first. When sargassum piles up on a beach, the people who live there have no safety plan, no expert, and no way to raise money that donors trust.
+
+3
+00:00:14,300 --> 00:00:20,700
+Report what you see. A short interview with photos and simple answers. Any phone, and it works offline.
+
+4
+00:00:21,300 --> 00:00:27,700
+Check and send. No account, no name needed.
+
+5
+00:00:28,300 --> 00:00:36,700
+Rules set the floor. Code sets the minimum safety level. Claude reads the photos and can make it stricter, never weaker.
+
+6
+00:00:37,300 --> 00:00:43,700
+Steps anyone can follow. Protection, short shifts, children away. Mexico's own safety colours.
+
+7
+00:00:44,300 --> 00:00:50,700
+Ten languages. Maya and Nahuatl use paid community interpreters, never machine translation.
+
+8
+00:00:51,300 --> 00:01:00,700
+Laws by level. International, national, state and local. Only verified rules, with source and date.
+
+9
+00:01:01,300 --> 00:01:07,700
+A link for the authority. The office needs no account.
+
+10
+00:01:08,300 --> 00:01:14,700
+The office answers in the app. It sees the report without the resident's name or contact details.
+
+11
+00:01:15,300 --> 00:01:22,700
+In progress, and a pledge. Case number, date, and a promise to match every community dollar 1:1, up to $300.
+
+12
+00:01:23,300 --> 00:01:29,700
+The answer comes back. Every answer goes into the tamper-evident record.
+
+13
+00:01:30,300 --> 00:01:37,700
+Neighbors donate. Donations through PayPal go to this incident only.
+
+14
+00:01:38,300 --> 00:01:46,700
+An agent invoices the match. The PayPal Agent Toolkit invoices exactly what is owed. It can never send money out.
+
+15
+00:01:47,300 --> 00:01:53,700
+Money in milestones. The crew uploads a photo.
+
+16
+00:01:54,300 --> 00:02:01,700
+Claude checks the evidence. No photo, no payment.
+
+17
+00:02:02,300 --> 00:02:09,700
+A named person approves. Then PayPal Payouts pays. A verifier can never pay themselves.
+
+18
+00:02:10,300 --> 00:02:16,700
+Private by design. Only the reporter sees the report.
+
+19
+00:02:17,300 --> 00:02:24,700
+A public ledger. Every dollar, without places, photos or names.
+
+20
+00:02:25,300 --> 00:02:31,700
+Anonymous statistics. Groups smaller than 3 are hidden.
+
+21
+00:02:32,300 --> 00:02:38,700
+Open to download. Every anonymous total as CSV.
+
+22
+00:02:39,300 --> 00:02:46,700
+Strong communities. Safe first, the right authority, and money only for real work.

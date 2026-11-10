@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Comunidad Fuerte</title>
+  <meta name="description" content="Community response to pollution and unsafe shared spaces: AI checks the danger, reports to the right institution, and PayPal releases money only for verified work.">
+  <meta name="theme-color" content="#12343b">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%2312343b'/%3E%3Cpath d='M8 38c8-8 16 0 24-8s16 0 24-8' stroke='%23f2b632' stroke-width='6' fill='none'/%3E%3C/svg%3E">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Comunidad Fuerte">
+  <link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#/" aria-label="Comunidad Fuerte home">
+        <svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="30" fill="#1f6f64"/><path d="M8 38c8-8 16 0 24-8s16 0 24-8" stroke="#f2b632" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M8 50c8-8 16 0 24-8s16 0 24-8" stroke="#bfe0ea" stroke-width="4" fill="none" stroke-linecap="round"/></svg>
+        <span>Comunidad Fuerte</span>
+      </a>
+      <nav class="nav" id="nav" aria-label="Main"></nav>
+      <div class="lang-switch" role="group" aria-label="Language">
+        <button type="button" data-lang="en">EN</button>
+        <button type="button" data-lang="es">ES</button>
+      </div>
+    </div>
+  </header>
+  <div class="modebar" id="modebar" role="status"></div>
+  <main id="app" tabindex="-1">
+    <noscript><p style="padding:16px">Comunidad Fuerte needs JavaScript turned on. / Comunidad Fuerte necesita JavaScript activado.</p></noscript>
+  </main>
+  <script>
+    // Very old browsers: say so clearly instead of showing a blank page.
+    (function () {
+      var ok = window.fetch && window.Promise && Array.prototype.flatMap && Object.fromEntries && window.URLSearchParams;
+      if (!ok) {
+        window.CF_OLD_BROWSER = true;
+        document.getElementById('app').innerHTML = '<div style="padding:16px;font-size:18px"><p><strong>Este navegador es muy antiguo para Comunidad Fuerte.</strong> Actualice Chrome, Safari, Firefox o Edge, o abra la app en otro teléfono o computadora.</p><p><strong>This browser is too old for Comunidad Fuerte.</strong> Please update Chrome, Safari, Firefox or Edge, or open the app on another phone or computer.</p></div>';
+      }
+    })();
+  </script>
+  <dialog id="dialog"><div class="dialog-body" id="dialog-body"></div></dialog>
+
+  <script src="/vendor/ag-grid/ag-grid-community.min.js" defer></script>
+  <script src="/js/icons.js" defer></script>
+  <script src="/js/i18n.js" defer></script>
+  <script src="/js/app.js" defer></script>
+</body>
+</html>
